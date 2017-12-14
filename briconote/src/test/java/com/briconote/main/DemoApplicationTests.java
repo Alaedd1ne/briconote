@@ -1,4 +1,4 @@
-package com.briconote.demo;
+package com.briconote.main;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,6 +11,7 @@ public class DemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+	
 	}
 
 }
